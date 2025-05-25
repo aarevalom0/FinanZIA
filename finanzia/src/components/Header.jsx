@@ -10,7 +10,7 @@ const Header = () => {
             <div className="flex-shrink-0">
               <img
                 className="h-8 w-8"
-                src="/Images/Icon.png"
+                src="%PUBLIC_URL%/Images/Icon.png"
                 alt="Finanzia Logo"
               />
             </div>
