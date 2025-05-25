@@ -1,7 +1,7 @@
 {
   "name": "finanzia",
   "version": "0.1.0",
-  "homepage": "https://github.com/aarevalom0/FinanZIA",
+  "homepage": "https://aarevalom0.github.io/FinanZIA",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
